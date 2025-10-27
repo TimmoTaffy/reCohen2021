@@ -13,3 +13,4 @@ datasets/
 *.pt
 *.pth
 checkpoints/
+datasets/
