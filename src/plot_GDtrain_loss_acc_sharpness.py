@@ -5,8 +5,8 @@ from os import environ
 dataset = "cifar10-5k"
 arch = "fc-tanh"
 loss = "mse"
-gd_lr = 0.01
-gd_eig_freq = 100
+gd_lr = 0.04
+gd_eig_freq = 25
 
 gd_directory = f"{environ['RESULTS']}/{dataset}/{arch}/seed_0/{loss}/gd/lr_{gd_lr}"
 
