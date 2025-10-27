@@ -5,7 +5,6 @@ demo.py
 .DS_Store
 .idea
 data
-results
 src/__pycache__
 datasets/
 *.tar.gz
