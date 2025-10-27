@@ -7,3 +7,9 @@ demo.py
 data
 results
 src/__pycache__
+datasets/
+*.tar.gz
+*.zip
+*.pt
+*.pth
+checkpoints/
